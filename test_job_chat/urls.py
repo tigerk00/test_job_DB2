@@ -21,7 +21,7 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Chat_B2 API",
+        title="Chat_DB2 API",
         default_version="v1",
         description="A simple API to view and post messages without registering.",
         terms_of_service="https://www.google.com/policies/terms/",
