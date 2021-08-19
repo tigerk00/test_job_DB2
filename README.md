@@ -10,8 +10,8 @@
   <li>Cкачать репозиторий(копировать) с помощью github или git - git clone https://github.com/tigerk00/test_job_DB2.git --config core.autocrlf=false</li>
   <li>Назначить локальные переменные для корректной работы БД и Django проекта в частности.</li>
   <li>Выполнить команду `pip install -r requirements.txt` для установки нужных библиотек.</li>
-  <li>Запустить локальный сервер `http://localhost:8000/` .</li>
-  <li>... Или просто вопользоваться данным сервисом на Heroku: `https://testchattigerk.herokuapp.com/`</li>
+  <li>Запустить локальный сервер http://localhost:8000/ .</li>
+  <li>... Или просто вопользоваться данным сервисом на Heroku: https://testchattigerk.herokuapp.com/</li>
 </ul>  
 <h3>Изображения приложения:</h3>
 <p>Домашняя страница(в нашем случае - документация) [https://testchattigerk.herokuapp.com/]: </p>
